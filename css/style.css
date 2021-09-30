@@ -1,5 +1,4 @@
 html {
-    font-size: 45px;
     box-sizing: border-box;
     color: rgb(126, 186, 214);
 }
@@ -20,8 +19,26 @@ body {
 }
 
 h1 {
-    font-size: large;
+    font-size: 105px;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
+
+}
+
+h3 {
+    font-size: small;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
 }
