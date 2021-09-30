@@ -27,6 +27,22 @@ h1 {
 
 }
 
+.bar{
+    display: flex;
+    justify-content: center;
+    height: 10px; 
+    position: relative;
+    bottom: 350px;
+    padding: 30px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+}
+
 h3 {
     font-size: small;
     display: inline;
@@ -34,11 +50,6 @@ h3 {
 
 }
 
-.bar{
-    display: flex;
-    justify-content: center;
-    height: 10px; 
-}
 
 .button {
     display: flex;
@@ -49,12 +60,6 @@ h3 {
     display: flex;
     align-items: flex-start;
     margin: 33, 3, 25, 1
-}
-
-.search {
-    display: flex;
-    justify-content: center;
-    
 }
 
 .lucky {
