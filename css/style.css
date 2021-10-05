@@ -32,7 +32,7 @@ h1 {
     justify-content: center;
     height: 10px; 
     position: relative;
-    bottom: 350px;
+    bottom: 280px;
     padding: 30px;
 }
 
@@ -40,7 +40,15 @@ h1 {
     display: flex;
     justify-content: center;
     position: relative;
-    bottom: 100px;
+    bottom: 275px;
+    right: 80px;
+}
+
+.lucky {
+    display: flex;
+    position: relative;
+    bottom: 295px;
+    left: 100px;
 }
 
 h3 {
@@ -57,9 +65,13 @@ h3 {
 }
 
 .text1 {
-    display: flex;
+    display: inline;
     align-items: flex-start;
     margin: 33, 3, 25, 1
+}
+
+.text2 {
+    display: inline;
 }
 
 .lucky {
