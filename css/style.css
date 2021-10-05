@@ -48,7 +48,8 @@ h1 {
     display: flex;
     position: relative;
     bottom: 295px;
-    left: 100px;
+    left: 900px;
+  
 }
 
 h3 {
@@ -74,8 +75,3 @@ h3 {
     display: inline;
 }
 
-.lucky {
-    display: flex;
-    justify-content: center;
-    margin: 12px, 9px;
-}
