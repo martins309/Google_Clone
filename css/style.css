@@ -52,6 +52,21 @@ h1 {
   
 }
 
+.text1 {
+    display: inline;
+    position: relative;
+    bottom: 585px;
+    right: 35px;
+}
+
+.text2 {
+    display: inline;
+    position: relative;
+    bottom: 585px;
+    left: 1310px;
+}
+
+
 h3 {
     font-size: small;
     display: inline;
@@ -60,18 +75,4 @@ h3 {
 }
 
 
-.button {
-    display: flex;
-    justify-content: space-around;
-}
-
-.text1 {
-    display: inline;
-    align-items: flex-start;
-    margin: 33, 3, 25, 1
-}
-
-.text2 {
-    display: inline;
-}
 
